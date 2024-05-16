@@ -1,17 +1,18 @@
+<!--
+author:   FILIPPO MANINI, Vittorio romagnoli, lorenzo quarantini, alessio  pignotti
 
-FILIPPO MANINI, Vittorio romagnoli, lorenzo quarantini, alessio  pignotti
+email:    filippo.@savoiabenincasa.it vittorio.romagnoli@savoiabenincasa.it lorenzo.quarantini@savoiabenincasa.it alessio.pignotti@savoiabenincasa.it
 
+version:  0.0.1
 
-filippo.@savoiabenincasa.it vittorio.romagnoli@savoiabenincasa.it lorenzo.quarantini@savoiabenincasa.it alessio.pignotti@savoiabenincasa.it
+language: it
 
-version:0.0.1
+narrator: IT Italian Male
 
-language: IT
+comment:  Try to write a short comment about
+          your course, multiline is also okay.
 
-narrator: IT italian male
-
-Comment:
---------
+-->
 
 
 # Ingegneria Sociale: Vettori di Attacco e Contromisure
