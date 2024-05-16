@@ -17,7 +17,7 @@ comment:  Try to write a short comment about
 
 # Ingegneria Sociale: Vettori di Attacco e Contromisure
 
-Visualizza su [LiaScript] (https://raw.githubusercontent.com/japofili/ingegneria-sociale/main/README.md)
+Visualizza su [LiaScript] (https://liascript.github.io/course/?https://raw.githubusercontent.com/japofili/ingegneria-sociale/main/README.md)
 
 LAVORO SVOLTO DA: filippo manini, vittorio romagnoli, alessio pignotti e lorenzo quarantini
 
