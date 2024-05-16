@@ -16,7 +16,7 @@ Comment:
 
 # Ingegneria Sociale: Vettori di Attacco e Contromisure
 
-Visualizza su [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/japofili/ingegneria-sociale/main/README.md)
+Visualizza su [LiaScript] (https://raw.githubusercontent.com/japofili/ingegneria-sociale/main/README.md)
 
 LAVORO SVOLTO DA: filippo manini, vittorio romagnoli, alessio pignotti e lorenzo quarantini
 
@@ -48,10 +48,10 @@ LAVORO SVOLTO DA: filippo manini, vittorio romagnoli, alessio pignotti e lorenzo
 4.  Come possono le persone proteggersi dal phishing?
 - [[ ]] Cliccando su qualsiasi link ricevuto via e-mail
 - [[ ]] Condividendo informazioni sensibili sui social media
-- [[ ]] Essendo cauti con i link e le richieste di informazioni personali online
+- [[x]] Essendo cauti con i link e le richieste di informazioni personali online
 
 5. Qual è uno dei rischi associati all'ingegneria sociale nel phishing?
-- [[ ]] Perdita di dati
+- [[x]] Perdita di dati
 - [[ ]] Miglioramento della sicurezza delle informazioni
 - [[ ]] Diminuzione della sicurezza informatica
 
@@ -148,7 +148,7 @@ LAVORO SVOLTO DA: filippo manini, vittorio romagnoli, alessio pignotti e lorenzo
 - [[x]] Tutte le precedenti
 
 3. Quali sono alcune strategie per proteggersi dall'ingegneria sociale online?
-- [[a]] Verificare sempre l'autenticità dei siti web e delle email
+- [[x]] Verificare sempre l'autenticità dei siti web e delle email
 - [[ ]] Non cliccare su link sospetti o allegati non richiesti
 - [[ ]] Condividere liberamente informazioni personali sui social media
 - [[ ]] Installare software antivirus solo quando si sospetta un attacco
@@ -169,3 +169,28 @@ LAVORO SVOLTO DA: filippo manini, vittorio romagnoli, alessio pignotti e lorenzo
 - Implementazione di procedure di distruzione sicura dei documenti sensibili, come la triturazione.
 - Adozione di politiche di gestione dei rifiuti che proteggano le informazioni sensibili 
 
+1. Qual è l'obiettivo principale del Dumpster Diving per gli attaccanti?
+- [[ ]] Migliorare la gestione dei rifiuti
+- [[x]] Trovare informazioni sensibili gettate via
+- [[ ]] Analizzare le abitudini di consumo dei dipendenti
+- [[ ]] Recuperare materiali riciclabili
+
+2. Quale di queste misure può prevenire efficacemente il Dumpster Diving?*
+- [[ ]] Utilizzare contenitori per i rifiuti aperti e accessibili
+- [[ ]] Affidarsi alla raccolta differenziata
+- [[x]] Implementare procedure di distruzione sicura dei documenti, come la triturazione
+- [[ ]] Conservare tutti i documenti in archivi non protetti
+
+3. Quale politica aziendale è essenziale per proteggere le informazioni sensibili dai rischi del Dumpster Diving?*
+- [[ ]] Politiche di lavoro da remoto
+- [[x]] Politiche di gestione dei rifiuti che proteggano le informazioni sensibili
+- [[ ]] Politiche di formazione sulla sicurezza informatica
+- [[ ]] Politiche di aggiornamento software
+
+4. L'uso di trituratori per distruggere documenti sensibili può prevenire il Dumpster Diving.
+- [[x]] Vero
+- [[ ]] Falso
+
+5. Il Dumpster Diving è una tecnica di phishing che si svolge esclusivamente online.
+- [[ ]] Vero
+- [[x]] Falso
